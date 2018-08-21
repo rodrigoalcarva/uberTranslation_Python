@@ -1,0 +1,14 @@
+Company:
+ReBaBel
+Day:
+07:11:2016
+Time:
+23:55
+Translators:
+Ana Tavares, (english), (portuguese), 1*, 0.501, 2000, 20000, 2304, 08:11:2016
+Mikolás Janota, (czech), (english; portuguese), 3*, 1.780, 2000, 200000, 4235, 08:11:2016
+Paula Guerreiro, (french), (portuguese), 2*, 0.900, 3500, 45000, 21689, 11:11:2016
+Peter Wittenburg, (dutch; english), (dutch; english), 2*, 1.023, 2500, 20000, 7544, 08:11:2016
+Rita Carvalho, (english), (portuguese), 1*, 0.633, 5000, 400000, 18023, 09:11:2016
+Steven Neale, (portuguese; french), (english), 3*, 0.803, 3000, 25000, 3084, 08:11:2016
+

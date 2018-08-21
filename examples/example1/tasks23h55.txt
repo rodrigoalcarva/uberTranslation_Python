@@ -1,0 +1,12 @@
+Company:
+ReBaBel
+Day:
+07:11:2016
+Time:
+23:55
+Tasks:
+emailToJane, french, portuguese, 2*, 10546, speed, françois millet
+harry potter volume 24, english, portuguese, 3*, 126454, price, bertrand
+com os holandeses, portuguese, dutch, 2*, 93569, price, leya
+osudy dobrého vojáka Švejka za světové války, czech, portuguese, 2*, 144238, speed, bertrand
+

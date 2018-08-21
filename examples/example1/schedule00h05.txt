@@ -1,0 +1,12 @@
+Company:
+ReBaBel
+Day:
+08:11:2016
+Time:
+00:05
+Schedule:
+08:11:2016, not-assigned, not-applicable, com os holandeses
+15:11:2016, Paula Guerreiro, 9491, emailToJane
+05:12:2016, Rita Carvalho, 80045, harry potter volume 24
+20:01:2017, Mikolás Janota, 256744, osudy dobrého vojáka Švejka za světové války
+

@@ -1,0 +1,13 @@
+Company:
+ReBaBel
+Day:
+08:11:2016
+Time:
+12:25
+Schedule:
+10:11:2016, Zacarias Sacavém, 1213, emailToMyLove
+11:11:2016, José Sousa, 2413, letter from the CEO (that's me) 
+16:11:2016, Deyi Xiong, 65941, top secret file #234ADE25
+21:11:2016, Zacarias Sacavém, 8956, anotherEmailToMyLove
+18:12:2016, Vladislav Maraev, 1115845, voyná i mir
+

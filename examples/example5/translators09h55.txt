@@ -1,0 +1,16 @@
+﻿Company:
+ReBaBel
+Day:
+09:11:2016
+Time:
+09:57
+Tasks:
+Ana Costa, (french), (portuguese), 3*, 0.900, 3500, 50000, 16689, 12:11:2016
+Deyi Xiong, (chinese), (english), 3*, 2.568, 3500, 50000, 0, 09:11:2016
+Humberto Martins, (english), (portuguese), 3*, 0.435, 2000, 100000, 23789, 09:11:2016
+Mikolás Janota, (czech), (english; portuguese), 3*, 1.780, 2000, 20000, 4235, 19:01:2017
+Paula Guerreiro, (french), (portuguese), 2*, 0.900, 3500, 45000, 21689, 12:11:2016
+Peter Wittenburg, (dutch; english), (dutch; english), 2*, 1.023, 2500, 20000, 7544, 08:11:2016
+Steven Neale, (portuguese; french), (english), 3*, 0.803, 3000, 25000, 3084, 08:11:2016
+Vladislav Maraev, (russian), (english; portuguese), 3*, 1.900, 15000, 500000, 3123, 09:11:2016
+Zulmira Abrantes, (english), (portuguese), 3*, 0.435, 2000, 100000, 23789, 09:11:2016

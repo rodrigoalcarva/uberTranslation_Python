@@ -1,0 +1,14 @@
+Company:
+ReBaBel
+Day:
+08:11:2016
+Time:
+13:15
+Tasks:
+voyná i mir, russian, english, 2*, 587287, quality, penguin
+letter from the CEO (that's me), english, portuguese, 1*, 5546, price, tino de rans 
+top secret file #234ADE25, chinese, english, 2*, 25678, quality, cia
+emailToMyLove, english, portuguese, 1*, 2788, price, zeze camarinha
+anotherEmailToMyLove, english, portuguese, 1*, 20588, price, zeze camarinha
+
+

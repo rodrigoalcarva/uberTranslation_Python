@@ -1,0 +1,19 @@
+﻿Company:
+ReBaBel
+Day:
+09:11:2016
+Time:
+09:55
+Clients:
+harry potter volume 1, english, portuguese, 3*, 95454, quality, bertrand
+a la recherche do temps perdu tome 1, french, portuguese, 2*, 129900, price, leya
+a la recherche do temps perdu tome 2, french, portuguese, 2*, 128910, price, leya
+harry potter volume 2, english, portuguese, *3, 147321, quality, bertrand
+a la recherche do temps perdu tome 3, french, portuguese, 2*, 130890, price, leya
+a la recherche do temps perdu tome 4, french, portuguese, 2*, 129400, price, leya
+a la recherche do temps perdu tome 5, french, portuguese, 2*, 130400, price, leya
+a la recherche do temps perdu tome 6, french, portuguese, 2*, 129943, price, leya
+harry potter volume 3, english, portuguese, *3, 86321, quality, bertrand
+a la recherche do temps perdu tome 7, french, portuguese, 2*, 129821, price, leya
+
+
